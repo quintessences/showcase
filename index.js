@@ -56,13 +56,7 @@ card.appendChild(content);
   Linkedin.setAttribute("target", "_blank");
   Twitter.setAttribute("target", "_blank");
   for (user of dataForCards.data) {
-    // card.style.setProperty('');
-    // elementBefore.style.backgroundImage = `url(${user.picture_url})`;
-    //JS
-    // const root = document.querySelector(":root"); //grabbing the root element
-    // root.style.setProperty("--picture-url", `url(${user.picture_url})`);
     imageDiv.style.backgroundImage = `url(${user.picture_url})`;
-    // card.dataset.image = user.picture_url;
     Github.setAttribute("href", user.github);
     Linkedin.setAttribute("href", user.linkedin);
     Linkedin.setAttribute("href", user.linkedin);
