@@ -118,7 +118,7 @@ The steps to follow to contribute to any projects:
 
 ## 🔥 What will happen after my contribution?
 
-I have created a simple page to display all contributors list [here](https://hctnm2.github.io/Beginner-Hacktoberfest/), your name should appear shortly after the pull request is merged.
+Your name should appear shortly in Contributor list down after the pull request is merged.
 
 ---
 
