@@ -56,6 +56,15 @@
       "quote": "Don't stop until you're proud"
     },
     {
+      "name": "Shreyansh Shukla",
+      "batch": 2024,
+      "picture_url": "https://ibb.co/8z11gNK",
+      "twitter": "https://twitter.com/",
+      "github": "https://github.com/ShuklaShreyansh2002",
+      "linkedin": "https://www.linkedin.com/in/shreyansh-shukla-09152a220/",
+      "quote": "The way to get started is to quit talking and begin doing."
+    },
+    {
       "name": "Aryan Tripathi",
       "batch": 2024,
       "picture_url": "https://i.ibb.co/dp3F3vP/aryan2.jpg",
@@ -75,6 +84,6 @@
       "linkedin":"http://www.linkedin.com/",
       "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
     }
- 
+
   ]
 }
