@@ -58,15 +58,32 @@
     {
       "name": "Shreyansh Shukla",
       "batch": 2024,
-<<<<<<< HEAD
       "picture_url": "https://ibb.co/8z11gNK",
-=======
-      "picture_url": "https://ibb.co/PTq8W70",
->>>>>>> 171d88fb2113d37c87a82d1125670524787c510d
       "twitter": "https://twitter.com/",
       "github": "https://github.com/ShuklaShreyansh2002",
       "linkedin": "https://www.linkedin.com/in/shreyansh-shukla-09152a220/",
       "quote": "The way to get started is to quit talking and begin doing."
+    },
+    {
+      "name": "Aryan Tripathi",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/dp3F3vP/aryan2.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/AryanTripath30",
+      "linkedin":"http://www.linkedin.com/in/aryan-tripathi-9b171a201",
+      "quote":"A tiny one with not so tiny dreams"
     }
+ 
+
+    {
+      "name": "DEEPAK MAURYA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/g4bgxcj/Whats-App-Image-2021-10-09-at-11-12-27-AM.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
+    }
+
   ]
 }
