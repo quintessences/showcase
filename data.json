@@ -28,5 +28,15 @@
       "linkedin":"http://www.linkedin.com/",
       "quote":"CIRCUMSTANCES MATTER"
     }
+
+    {
+      "name": "DEEPAK MAURYA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/g4bgxcj/Whats-App-Image-2021-10-09-at-11-12-27-AM.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
+    }
   ]
 }
