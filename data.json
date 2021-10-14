@@ -93,5 +93,15 @@
       "linkedin":"http://www.linkedin.com/",
       "quote":"ALL IS WELL"
     }
+    {
+      "name": "PREKSHA RAI",
+      "batch": 2022,
+      "picture_url": "https://ibb.co/xmJyd2z",
+      "twitter": "https://twitter.com/RaiPreksha",
+      "github":"https://github.com/preksharai",
+      "linkedin": "www.linkedin.com/in/preksha-rai-35119a183",
+      "quote": "Be kind!"
+
+    }
   ]
 }
