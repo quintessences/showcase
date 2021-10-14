@@ -84,6 +84,14 @@
       "linkedin":"http://www.linkedin.com/",
       "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
     }
-
+    {
+      "name": "TUSHAR SHARMA",
+      "batch": 2024,
+      "picture_url": "https://ibb.co/3yQZYh4",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ALL IS WELL"
+    }
   ]
 }
