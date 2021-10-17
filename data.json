@@ -72,9 +72,7 @@
       "github":"https://github.com/AryanTripath30",
       "linkedin":"http://www.linkedin.com/in/aryan-tripathi-9b171a201",
       "quote":"A tiny one with not so tiny dreams"
-    }
- 
-
+    },
     {
       "name": "DEEPAK MAURYA",
       "batch": 2024,
@@ -83,7 +81,7 @@
       "github":"https://github.com/",
       "linkedin":"http://www.linkedin.com/",
       "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
-    }
+    },
     {
       "name": "TUSHAR SHARMA",
       "batch": 2024,
@@ -92,6 +90,15 @@
       "github":"https://github.com/",
       "linkedin":"http://www.linkedin.com/",
       "quote":"ALL IS WELL"
+    },
+    {
+      "name": "Shweta Pandey",
+      "batch": 2022,
+      "picture_url": "https://ibb.co/9r1xsFp",
+      "twitter": "",
+      "github":"https://github.com/shwetapandey18",
+      "linkedin":"https://www.linkedin.com/in/shweta-pandey-769477172/",
+      "quote":"I am what I choose to be"
     }
   ]
 }
