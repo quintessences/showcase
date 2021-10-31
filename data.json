@@ -82,7 +82,16 @@
       "linkedin":"http://www.linkedin.com/",
       "quote":"ALL IS WELL"
     },
-    {
+    { 
+      "name": "Shweta Pandey",
+      "batch": 2022,
+      "picture_url": "https://ibb.co/4FdT7CP.jpg",
+      "twitter": "",
+      "github":"https://github.com/shwetapandey18",
+      "linkedin":"https://www.linkedin.com/in/shweta-pandey-769477172/",
+      "quote":"I am what I choose to be"
+    },
+    { 
       "name": "PREKSHA RAI",
       "batch": 2022,
       "picture_url": "https://i.ibb.co/RY7F70b/my-photo.jpg",
