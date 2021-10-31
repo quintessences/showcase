@@ -22,7 +22,7 @@
     {
       "name": "RITIKA BHATT",
       "batch": 2023,
-      "picture_url": "https://ibb.co/939Cy3n",
+      "picture_url": "https://i.ibb.co/3mNcNqF/Linkedin-Profile.png",
       "twitter": "https://twitter.com/__smily__31?s=08",
       "github":"https://github.com/smily31",
       "linkedin":"https://www.linkedin.com/in/ritika-bhatt-748a621a8",
@@ -38,18 +38,9 @@
       "quote":"CIRCUMSTANCES MATTER"
     },
     {
-      "name": "Rishiraj Chauhan",
-      "batch": 2024,
-      "picture_url": "https://ibb.co/xh3Lfk2",
-      "twitter": "https://twitter.com/",
-      "github":"https://github.com/rishiraj52",
-      "linkedin":"https://www.linkedin.com/in/rishiraj-chauhan-2a187b20b/",
-      "quote":"Always believe in yourself"
-    },
-    {
-      "name": "Kumar Yash",
+      "name": "KUMAR YASH",
       "batch": 2023,
-      "picture_url": "https://ibb.co/54m4VJ1",
+      "picture_url": "https://i.ibb.co/Jks7xwG/Whats-App-Image-2021-10-12-at-10-02-21-PM.jpg",
       "twitter": "https://twitter.com/",
       "github": "https://github.com/privateyash",
       "linkedin": "https://www.linkedin.com/in/kumar-yash-68b364203/",
@@ -85,13 +76,13 @@
     {
       "name": "TUSHAR SHARMA",
       "batch": 2024,
-      "picture_url": "https://ibb.co/3yQZYh4",
+      "picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
       "twitter": "https://twitter.com/",
       "github":"https://github.com/",
       "linkedin":"http://www.linkedin.com/",
       "quote":"ALL IS WELL"
     },
-    {
+    { 
       "name": "Shweta Pandey",
       "batch": 2022,
       "picture_url": "https://ibb.co/4FdT7CP.jpg",
@@ -99,6 +90,15 @@
       "github":"https://github.com/shwetapandey18",
       "linkedin":"https://www.linkedin.com/in/shweta-pandey-769477172/",
       "quote":"I am what I choose to be"
+    },
+    { 
+      "name": "PREKSHA RAI",
+      "batch": 2022,
+      "picture_url": "https://i.ibb.co/RY7F70b/my-photo.jpg",
+      "twitter": "https://twitter.com/RaiPreksha",
+      "github":"https://github.com/preksharai",
+      "linkedin": "www.linkedin.com/in/preksha-rai-35119a183",
+      "quote": "Be kind!"
     }
   ]
 }
