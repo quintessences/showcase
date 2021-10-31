@@ -63,7 +63,27 @@
       "github": "https://github.com/ShuklaShreyansh2002",
       "linkedin": "https://www.linkedin.com/in/shreyansh-shukla-09152a220/",
       "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts."
+    },
+    {
+      "name": "Aryan Tripathi",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/dp3F3vP/aryan2.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/AryanTripath30",
+      "linkedin":"http://www.linkedin.com/in/aryan-tripathi-9b171a201",
+      "quote":"A tiny one with not so tiny dreams"
     }
-    
+ 
+
+    {
+      "name": "DEEPAK MAURYA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/g4bgxcj/Whats-App-Image-2021-10-09-at-11-12-27-AM.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
+    }
+
   ]
 }
