@@ -11,22 +11,22 @@
       "quote":"NEVER SAY NEVER"
     },
     {
+      "name": "MEHA SHUKLA",
+      "batch": 2024,
+      "picture_url": "https://ibb.co/WhatsApp Image 2021-07-28 at 17.03.54",
+      "twitter": "https://twitter.com/MEHASHUKLA4",
+      "github":"https://github.com/MehaShukla",
+      "linkedin":"https://www.linkedin.com/in/meha-shukla-56134b202/",
+      "quote":"COMPETE WITH YOURSELF,BEAT YOURSELF"
+    },
+    {
       "name": "RITIKA BHATT",
       "batch": 2023,
-      "picture_url": "https://ibb.co/939Cy3n",
+      "picture_url": "https://i.ibb.co/3mNcNqF/Linkedin-Profile.png",
       "twitter": "https://twitter.com/__smily__31?s=08",
       "github":"https://github.com/smily31",
       "linkedin":"https://www.linkedin.com/in/ritika-bhatt-748a621a8",
       "quote":"BE BETTER YOU"
-    },
-    {
-      "name": "MEHA SHUKLA",
-      "batch": 2024,
-      "picture_url": "https://i.ibb.co/5Ks0K0p/PHOTO-2021-10-16-23-50-08.jpg",
-      "twitter": "https://twitter.com/MEHASHUKLA4",
-      "github":"https://github.com/MehaShukla",
-      "linkedin":"https://www.linkedin.com/in/meha-shukla-56134b202/",
-      "quote":"COMPETE WITH YOURSELF,BEAT YOURSELF."
     },
     {
       "name": "MOHAK SRIVASTAV",
@@ -36,6 +36,69 @@
       "github":"https://github.com/mohak_srivastava",
       "linkedin":"http://www.linkedin.com/",
       "quote":"CIRCUMSTANCES MATTER"
+    },
+    {
+      "name": "KUMAR YASH",
+      "batch": 2023,
+      "picture_url": "https://i.ibb.co/Jks7xwG/Whats-App-Image-2021-10-12-at-10-02-21-PM.jpg",
+      "twitter": "https://twitter.com/",
+      "github": "https://github.com/privateyash",
+      "linkedin": "https://www.linkedin.com/in/kumar-yash-68b364203/",
+      "quote": "Don't stop until you're proud"
+    },
+    {
+      "name": "Shreyansh Shukla",
+      "batch": 2024,
+      "picture_url": "https://ibb.co/8z11gNK",
+      "twitter": "https://twitter.com/",
+      "github": "https://github.com/ShuklaShreyansh2002",
+      "linkedin": "https://www.linkedin.com/in/shreyansh-shukla-09152a220/",
+      "quote": "The way to get started is to quit talking and begin doing."
+    },
+    {
+      "name": "Aryan Tripathi",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/dp3F3vP/aryan2.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/AryanTripath30",
+      "linkedin":"http://www.linkedin.com/in/aryan-tripathi-9b171a201",
+      "quote":"A tiny one with not so tiny dreams"
+    },
+    {
+      "name": "DEEPAK MAURYA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/g4bgxcj/Whats-App-Image-2021-10-09-at-11-12-27-AM.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ME IS THE AUTHOR OF MY OWN BOOK"
+    },
+    {
+      "name": "TUSHAR SHARMA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ALL IS WELL"
+    },
+    { 
+      "name": "Shweta Pandey",
+      "batch": 2022,
+      "picture_url": "https://ibb.co/4FdT7CP.jpg",
+      "twitter": "",
+      "github":"https://github.com/shwetapandey18",
+      "linkedin":"https://www.linkedin.com/in/shweta-pandey-769477172/",
+      "quote":"I am what I choose to be"
+    },
+    { 
+      "name": "PREKSHA RAI",
+      "batch": 2022,
+      "picture_url": "https://i.ibb.co/RY7F70b/my-photo.jpg",
+      "twitter": "https://twitter.com/RaiPreksha",
+      "github":"https://github.com/preksharai",
+      "linkedin": "www.linkedin.com/in/preksha-rai-35119a183",
+      "quote": "Be kind!"
     }
   ]
 }
